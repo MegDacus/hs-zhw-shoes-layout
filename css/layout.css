@@ -24,4 +24,30 @@
 
 /* Positioning Classes */
 
+.large {
+  display: inline-block;
+  width: 66%;
+}
+
+.medium {
+  display: inline-block;
+  width: 33%;
+}
+
+.small {
+  display: inline-block;
+  width: 33%;
+  margin-top: 10px;
+}
+
+section .small .shadow #skaters {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#details .wrapper div {
+  display: inline-block;
+  width: 33%;
+}
+
 
